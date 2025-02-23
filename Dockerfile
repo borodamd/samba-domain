@@ -17,10 +17,10 @@ RUN \
         krb5-user \
         krb5-kdc \
         supervisor \
-        openvpn \
         inetutils-ping \
         ldb-tools \
-        vim \
+        nano \
+        mc \        
         curl \
         dnsutils \
         ntp &&\
